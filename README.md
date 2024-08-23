@@ -1,6 +1,6 @@
 # Task3-AIChatBot
 
-In this Assignment 3 of the Agile Methods exercise, I built a ChatBot AI with Python and the OpenAI API to help me talk to chatgpt locally in my development environment, so I made 6 models from it to do different tasks.
+In this Task 3 of the Smart Methods training, I built a ChatBot AI with Python and the OpenAI API to help me talk to chatgpt locally in my development environment, so I made 6 models from it to do different tasks.
 
 Firstly, I make sure that I have an activated virtual enviroment in Pyhton to install the necessary libraries for each task to be worked successfuly, and this is made by these 2 terminal commands:
 #python -m venv VirtualEnviromentName to make it and #VirtualEnviromentName/Scripts/activate to activate it.
